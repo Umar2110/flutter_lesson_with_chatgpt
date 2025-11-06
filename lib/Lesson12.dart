@@ -27,7 +27,6 @@ class _Lesson12State extends State<Lesson12> {
 
   @override
   Widget build(BuildContext context) {
-    void controlecolor() {}
     return Scaffold(
       body: Center(
         child: Column(
